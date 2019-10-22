@@ -6,7 +6,7 @@ Click==7.0
 crccheck==0.6
 cryptography==2.7
 dominate==2.4.0
-ecdsa==0.13.2
+ecdsa==0.13.3
 Flask==0.12.2
 Flask-Bootstrap==3.3.7.1
 Flask-MySQL==1.4.0

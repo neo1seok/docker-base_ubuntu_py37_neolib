@@ -4,7 +4,7 @@ cffi==1.12.3
 chardet==3.0.4
 Click==7.0
 crccheck==0.6
-cryptography==2.7
+cryptography==3.2
 dominate==2.4.0
 ecdsa==0.13.2
 Flask==0.12.2
